@@ -10,5 +10,6 @@ Penulis 1: Fauziah Henni Hasibuan, lahir di Medan pada tahun 2001. Menyelesaikan
 
 Penulis 2: Hilal Fakhri Dzakwan, lahir di kota Manna pada tahun 2002. Menyelesaikan Pendidikan SMA di Yogyakarta. Dan sekarang tengah menempuh studi Sarjana Terapan semester 5 di Universitas Logistik dan Bisnis Internasional Fakultas Vokasi Jurusan Teknik Informatika
 ![Alt text](images/penulis.jpeg)
+
 Penulis 3: Mohammad Nurkamal Fauzan, memperoleh gelar Magister Teknologi Informasi dari ITB pada tahun 2011. Pernah menjadi Dosen pada Departemen Teknik Informatika Pos Indonesia Politeknik, sejak tahun 2011. Minat penelitiannya saat ini meliputi Internet of Things dan Machine Learning.
 ![Alt text](<images/pak kamal.png>)
